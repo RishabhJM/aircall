@@ -1,0 +1,10 @@
+.archive-button{
+    background-color: #F5F5F5;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+}

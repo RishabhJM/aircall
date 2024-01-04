@@ -1,0 +1,34 @@
+.call-details{
+    background-color: #F5F5F5;
+    height:60px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #B0B0B0;
+
+}
+
+.call-type-svg{
+    width:30px;
+    height:30px;
+    margin:0 10px;
+}
+
+.call-info{
+    display: flex;
+}
+
+.from-number{
+    font-weight: 800;
+}
+
+.time-box{
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    font-weight: 600;
+}
